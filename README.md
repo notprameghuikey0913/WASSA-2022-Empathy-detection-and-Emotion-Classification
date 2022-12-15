@@ -14,4 +14,7 @@ Our system
 achieves a Pearson Correlation Coefficient of
 0.488 on Task 1 (Average of Empathy - 0.470
 and Distress - 0.506) and Macro F1-score of
-0.531 on Task 2.
+0.531 on Task 2.    
+
+This Repository contains the code implementation of the paper https://aclanthology.org/2022.wassa-1.27  
+Please refer to the paper for more details.
